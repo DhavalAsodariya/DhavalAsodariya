@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I contibute my ideas **in IT Sector from 7+ years**.<br>
+🔭 I’m currently working on **.net core proejcts** in differnt domains.<br>
+🌱 I’m currently learning **React**.<br>
+🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhavalasodariya&theme=dracula&hide_border=true)
+
