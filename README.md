@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I contibute my ideas **in IT Sector from 7+ years**.<br>
+🎓 I contibute many ideas and sevice to **IT industries since 7+ years**.<br>
 🔭 I’m currently working on **.net core proejcts** in differnt domains.<br>
 🌱 I’m currently learning **React**.<br>
 🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
